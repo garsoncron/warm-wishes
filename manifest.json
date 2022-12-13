@@ -1,6 +1,6 @@
 {
-  "name": "Codely Figma Plugin Skeleton",
-  "id": "1131536692847981535",
+  "name": "warmest-wishes",
+  "id": "1184309740208317190",
   "api": "1.0.0",
   "main": "dist/figmaEntrypoint.js",
   "ui": "dist/ui.html",
@@ -8,8 +8,7 @@
     "currentuser"
   ],
   "editorType": [
-    "figma",
-    "figjam"
+    "figma"
   ],
   "menu": [
     {
